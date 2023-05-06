@@ -13,6 +13,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
 * [Usage](#usage)
+* [dynamic] (#web_dynamic)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
@@ -126,6 +127,9 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+[web_dynamic]
+* `made the website dynamic by using the api generated for the restful api`
+
 
 ## Examples of use
 ```
@@ -158,6 +162,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Ndubuisi Matthew - [Github](https://github.com/Ndumatt1)
 
 Second part of Airbnb: Joann Vuong
 ## License
